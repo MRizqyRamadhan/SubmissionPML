@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="home">Beranda</string>
+    <string name="analyze">Analisa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_home">home fragment</string>
+    <string name="gallery">Galeri</string>
+    <string name="image_classifier_failed">Image Classifier Failed</string>
+    <string name="news_fragment">News Fragment</string>
+    <string name="news">Berita</string>
+    <string name="empty_image_warning">Foto nya kosong</string>
+    <string name="tflitevision_is_not_initialized_yet">TfLiteVision is not initialized yet</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="add_data">Tambah data</string>
+    <string name="save_date">Simpan Data</string>
+    <string name="welcome_text">Selamat Datang, Rizqy!</string>
+    <string name="history">History Pemeriksaan:</string>
+    <string name="category">Kategori</string>
+    <string name="date">Tanggal</string>
+    <string name="empty_data">Tidak ada data ditemukan</string>
+    <string name="news_title">Judul Berita</string>
+</resources>
